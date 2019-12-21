@@ -1,4 +1,4 @@
-# Executable names:
+# Executable name with dependencies:
 EXE = ImageTransform
 TEST = test
 
